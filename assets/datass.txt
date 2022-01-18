@@ -1,0 +1,9 @@
+
+
+
+
+732b476ec685d573b54b337c2ab7a335
+
+api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+cloudy https://ibb.co/Mk4brkY
